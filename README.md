@@ -5,7 +5,7 @@ Website to see the movies and series and add your favorite show to favorites pag
 
 ## Description
 
-You can use this website to see the shows with details of every show (name, image, rating, Language, genres) and add your favorite show to favorites page to keep it save and available for any time
+You can use this website to see the shows(movies and series) with details of every show (name, image, rating, Language, genres) and added to your favorite show page to keep it save and available for any time
 
 ## Executing program
 
