@@ -1,19 +1,23 @@
-# Project-Unit-1
-TV Sows Website
+
+# TV Sows Website
+​
+Website to see the movies and series and add your favorite show to favorites page 
+
+## Description
+
+You can use this website to see the shows with details of every show (name, image, rating, Language, genres) and add your favorite show to favorites page to keep it save and available for any time
+
+## Executing program
+
+You must have : 
+index.html
+main.js
+style.css
+
+### List of APIs
 
 
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <p align="center">
-    Project for Unit 1
-    <br />
-  </p>
-</div>
-
+* [TV Show API](https://www.tvmaze.com/api)
 
 
 
@@ -27,14 +31,6 @@ TV Sows Website
 
 ![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://i.ibb.co/G7CcQvN/project1-home-page.png)
 
-
-
-
-
-### List of APIs
-
-
-* [TV Show API](https://www.tvmaze.com/api)
 
 
 
