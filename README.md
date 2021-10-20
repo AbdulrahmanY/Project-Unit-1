@@ -1,5 +1,5 @@
 # Project-Unit-1
-Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
+TV Sows Website
 
 
 
@@ -23,6 +23,10 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 ![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://i.ibb.co/3Y0xLmv/wireframe.png)
 
 
+## Home Page
+
+![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://i.ibb.co/G7CcQvN/project1-home-page.png)
+
 
 
 
@@ -35,8 +39,8 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 
 
 <!-- ROADMAP -->
-## What do you need to get it approved before you start working?
+## Trello Page
 
-- [Step by step using Trello](https://trello.com/invite/b/5ydTraXj/9c27967b9dad37dbeb432558d31e8954/tv-show)
+- [Trello](https://trello.com/invite/b/5ydTraXj/9c27967b9dad37dbeb432558d31e8954/tv-show)
 
 
